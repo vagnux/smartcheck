@@ -1,0 +1,22 @@
+Line 14: Class ComctlLib.Toolbar of control Toolbar1 was not a loaded control class.
+Line 92: Class ComctlLib.StatusBar of control StatusBar1 was not a loaded control class.
+Line 132: Class ComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 21: The property name _ExtentX in Toolbar1 is invalid.
+Line 22: The property name _ExtentY in Toolbar1 is invalid.
+Line 23: The property name ButtonWidth in Toolbar1 is invalid.
+Line 24: The property name ButtonHeight in Toolbar1 is invalid.
+Line 26: The property name ImageList in Toolbar1 is invalid.
+Line 27: The property name _Version in Toolbar1 is invalid.
+Line 90: The property name Buttons in Toolbar1 is invalid.
+Line 99: The property name _ExtentX in StatusBar1 is invalid.
+Line 100: The property name _ExtentY in StatusBar1 is invalid.
+Line 101: The property name SimpleText in StatusBar1 is invalid.
+Line 102: The property name _Version in StatusBar1 is invalid.
+Line 130: The property name Panels in StatusBar1 is invalid.
+Line 135: The property name _ExtentX in ImageList1 is invalid.
+Line 136: The property name _ExtentY in ImageList1 is invalid.
+Line 138: The property name ImageWidth in ImageList1 is invalid.
+Line 139: The property name ImageHeight in ImageList1 is invalid.
+Line 140: The property name MaskColor in ImageList1 is invalid.
+Line 141: The property name _Version in ImageList1 is invalid.
+Line 180: The property name Images in ImageList1 is invalid.
